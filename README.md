@@ -1,5 +1,5 @@
 Hi👋 I’m K Jyoshnavi
-✍️I’m currently learning Data Science and Python
+✍️I’m currently learning Data Science at Imarticus Learning
 I’m looking to collaborate on Python projects
 💬How to reach me katabathina44313@gmail.com
 
